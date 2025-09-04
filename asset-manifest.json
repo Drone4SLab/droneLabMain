@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/droneLabMain/static/js/main.e1460d73.js",
+    "main.js": "/droneLabMain/static/js/main.49726cd3.js",
     "index.html": "/droneLabMain/index.html",
-    "main.e1460d73.js.map": "/droneLabMain/static/js/main.e1460d73.js.map"
+    "main.49726cd3.js.map": "/droneLabMain/static/js/main.49726cd3.js.map"
   },
   "entrypoints": [
-    "static/js/main.e1460d73.js"
+    "static/js/main.49726cd3.js"
   ]
 }
